@@ -1,6 +1,6 @@
-output "passwd" {
-  value = var.passwd
-}
+#output "passwd" {
+#  value = var.passwd
+#}
 
 data "github_user" "current" {
   username = ""
