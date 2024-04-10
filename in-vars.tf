@@ -8,7 +8,7 @@ variable "github_repository" {
   type        = string
 }
 
-variable "passwd" {
-  type      = string
+#variable "passwd" {
+#  type      = string
 #  sensitive = true
-}
+#}
